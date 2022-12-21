@@ -22,7 +22,7 @@ public class Calculadora_HugoCayon {
         System.out.println("****Bienvenid@ a la calculadora****");
         while (opcion != 0) {
             System.out.println("Elige opción:\n" + ""
-                    + "1.- Sumar\n"
+                    + ".- Sumar\n"
                     + "2.- Restar\n"
                     + "3.- Multiplicar\n"
                     + "4.- Dividir\n"
